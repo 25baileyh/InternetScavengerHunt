@@ -1,0 +1,22 @@
+body {
+  background-color: #FED39F;
+  font-family: ink free;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  height: 0;
+  width: 95%;
+  border-width: 6px;
+}
+h3 {
+  color: #AF460F;
+}
+
+h1 {
+  color: #AF460F;
+}
+ol {
+  font-size: 20px;
+  font-family: ink free;
+}
